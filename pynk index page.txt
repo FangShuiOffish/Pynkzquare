@@ -1,0 +1,14 @@
+<html>
+  <head>
+<style>
+  .skwhere {
+  width: 1327px;
+  height: 1327px;
+  background-color: #FF1987;
+}
+</style>
+    </head>
+  <body>
+ <div class="skwhere"></div> 
+</body>
+</html>
